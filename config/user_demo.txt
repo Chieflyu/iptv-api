@@ -1708,3 +1708,193 @@ CN卡通
 闯关东
 上海滩
 射雕英雄传
+
+🇺🇸美国频道,#genre#
+CNN
+CNN HD
+CNN International
+CNN en Español
+Fox News Channel
+Fox News HD
+Fox Business Network
+Fox Weather
+MSNBC
+MSNBC HD
+CNBC
+CNBC HD
+CNBC World
+Bloomberg TV
+Bloomberg TV HD
+ABC News
+ABC News Live
+CBS News
+CBS News HD
+NBC News
+NBC News Now
+PBS NewsHour
+C-SPAN
+C-SPAN 2
+C-SPAN 3
+Newsmax
+Newsmax HD
+OANN
+OANN HD
+Newsy
+Cheddar News
+i24 News
+i24 News English
+i24 News America
+Vice News
+The Weather Channel
+WeatherNation
+FOX
+FOX HD
+Fox East
+Fox West
+FOX 5
+FOX 11
+FOX 32
+FOX 35
+FOX 59
+ABC
+ABC HD
+ABC East
+ABC West
+NBC
+NBC HD
+NBC East
+NBC West
+CBS
+CBS HD
+CBS East
+CBS West
+PBS
+PBS HD
+PBS World
+The CW
+The CW HD
+MyNetworkTV
+USA Network
+USA Network HD
+TBS
+TNT
+FX
+FXX
+
+🇨🇦加拿大频道,#genre#
+CBC News Network
+CBC News HD
+CTV News Channel
+CTV News HD
+Global News
+Global News HD
+BNN Bloomberg
+BNN Bloomberg HD
+CP24
+CP24 HD
+CityNews
+CityNews HD
+The Weather Network
+The Weather Network HD
+TVA Nouvelles
+RDI
+RDI HD
+CBC
+CBC HD
+CBC Toronto
+CBC Vancouver
+CTV
+CTV HD
+Global
+Global HD
+Citytv
+Citytv HD
+Omni 1
+Omni 2
+TVO
+TFO
+
+📺欧洲频道,#genre#
+BBC World News
+BBC World News HD
+CNN International
+CNN International HD
+Euronews
+Euronews English
+Euronews French
+Euronews German
+Euronews Spanish
+Al Jazeera English
+Al Jazeera English HD
+France 24
+France 24 English
+France 24 French
+France 24 Arabic
+DW
+DW English
+DW Deutsch
+Sky News International
+i24 News Europe
+NHK World
+RT News
+RT English
+BBC One
+BBC One HD
+BBC Two
+BBC Two HD
+BBC News
+BBC News HD
+BBC Parliament
+ITV
+ITV HD
+ITV1
+Channel 4
+Channel 4 HD
+Channel 5
+Channel 5 HD
+Sky News
+Sky News HD
+Das Erste
+Das Erste HD
+ZDF
+ZDF HD
+ZDFinfo
+ZDFinfo HD
+Tagesschau24
+Phoenix
+Phoenix HD
+Welt
+Welt HD
+N-TV
+N-TV HD
+TF1
+TF1 HD
+France 2
+France 2 HD
+France 3
+France 3 HD
+France 5
+France 5 HD
+LCI
+LCI HD
+BFMTV
+BFMTV HD
+TV5Monde
+TV5Monde Europe
+Rai 1
+Rai 1 HD
+Rai 2
+Rai 2 HD
+Rai 3
+Rai 3 HD
+Rai News 24
+La 1
+La 1 HD
+La 2
+Antena 3
+Antena 3 HD
+La Sexta
+La Sexta HD
+Telecinco
+Telecinco HD
+Canal 24 Horas
