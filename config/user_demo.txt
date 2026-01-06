@@ -58,38 +58,69 @@ CETV-4
 新疆卫视
 云南卫视
 
-🌊港·澳·台,#genre#
-翡翠台
-明珠台
-凤凰中文
-凤凰资讯
-凤凰香港
-凤凰卫视
-TVBS亚洲
-香港卫视
-纬来体育
-纬来育乐
-J2
-Viutv
-三立台湾
-无线新闻
-三立新闻
+🌊香港,#genre#
+香港｜新闻/资讯
+翡翠台（新闻）
+明珠台（新闻）
+无线新闻台
+凤凰卫视中文台
+凤凰卫视资讯台
+凤凰卫视香港台
+Now 新闻台
+Now 财经台
+有线新闻台
+有线财经资讯台
+RTHK 31
+RTHK 32
+RTHK 33
+香港国际财经台
+TVB Plus
+ViuTV（新闻）
+ViuTV Six（新闻
+
+🌊台湾,#genre#
+东森新闻
+东森财经新闻
+中天新闻
+TVBS 新闻台
+TVBS 环球新闻
+三立新闻台
+三立 iNEWS
+民视新闻台
+华视新闻
+台视新闻
+中视新闻
+镜电视新闻
+壹电视新闻台
+东森国际新闻
+东森亚洲新闻
 东森综合
 东森超视
-东森电影
-Now剧集
-Now华剧
-靖天资讯
-星卫娱乐
-卫视卡式
+东森亚洲台
+东森综合亚洲
+TVBS 欢乐台
+三立综合台
+八大综合台
+
+🌊澳门,#genre#
+澳门卫视
+澳视澳门
+澳视高清
+澳视资讯
+澳视体育
+澳视综艺
+澳门有线综合
+澳门有线新闻
+澳门有线体育
+澳门有线娱乐
+澳门有线电影
+澳门文化频道
+澳门旅游频道
 
 🎬电影频道,#genre#
 CHC家庭影院
 CHC动作电影
 CHC高清电影
-淘剧场
-淘娱乐
-淘电影
 NewTV惊悚悬疑
 NewTV动作电影
 黑莓电影
@@ -108,6 +139,40 @@ IPTV经典电影
 龙祥电影
 东森洋片
 东森超视
+凤凰电影台
+天映频道
+天映经典
+天映娱乐
+Now Cinema
+有线电影台
+星空卫视
+AXN 香港
+Warner TV
+HBO Asia
+Cinemax Asia
+FOX Movies
+东森电影台
+纬来电影台
+龙华电影台
+东森洋片台
+HBO 台湾
+Cinemax 台湾
+香港电影台
+KIX
+Thrill
+HITS Movies
+TVB 华语剧台
+TVB 亚洲剧台
+东森戏剧台
+八大戏剧台
+三立戏剧台
+纬来戏剧台
+东森日韩台
+八大第一台
+纬来综合台
+淘剧场
+淘娱乐
+淘电影
 
 🏀体育频道,#genre#
 CCTV-5
@@ -130,6 +195,29 @@ CCTV-5+
 江苏体育
 安徽综艺体育
 吉林篮球
+Now Sports 1
+Now Sports 2
+Now Sports 3
+Now Sports Prime
+有线体育台
+凤凰体育
+纬来体育台
+纬来体育 HD
+ELEVEN Sports 1
+ELEVEN Sports 2
+博斯运动一台
+博斯运动二台
+博斯高球台
+FOX Sports 台湾
+ESPN Asia
+STAR Sports Asia
+香港国际体育台
+Fight Sports
+Red Bull TV
+亚洲足球频道
+亚洲篮球频道
+亚洲网球频道
+亚洲赛车频道
 睛彩篮球
 睛彩羽毛球
 睛彩广场舞
@@ -147,8 +235,33 @@ CCTV-15
 音乐之声
 潮流音乐
 天津音乐
+MTV Asia
+Channel V
+凤凰音乐台
+TVB 娱乐新闻台
+东森音乐台
 音乐广播
 音乐调频广播
+
+👶亲子
+东森幼幼台
+MOMO 亲子台
+公视台语台
+公视客语台
+公视二台
+RTHK 教育频道
+
+📝纪录片
+Discovery Asia
+National Geographic Asia
+History Asia
+Love Nature Asia
+
+🍃生活旅游
+亚洲美食频道
+亚洲旅游台
+TLC Asia
+
 💰央视付费频道,#genre#
 文化精品
 央视台球
