@@ -76,7 +76,16 @@ RTHK 33
 香港国际财经台
 TVB Plus
 ViuTV（新闻）
-ViuTV Six（新闻
+ViuTV Six（新闻）
+TVB Entertainment News
+TVBN2
+TVB Japanese Drama
+TVB Korean Drama
+TVB Chinese Drama
+TVB Classic
+TVB Classic Movies
+TVB Asian Variety
+TVB Asian Select
 
 🌊台湾,#genre#
 东森新闻
@@ -195,10 +204,16 @@ CCTV-5+
 江苏体育
 安徽综艺体育
 吉林篮球
+Now Sports HD
 Now Sports 1
 Now Sports 2
 Now Sports 3
+Now Sports 4
+Now Sports 5
+Now Sports 6
+Now Sports 7
 Now Sports Prime
+TVB Sport
 有线体育台
 凤凰体育
 纬来体育台
@@ -261,6 +276,8 @@ Love Nature Asia
 亚洲美食频道
 亚洲旅游台
 TLC Asia
+TVB Food
+TVB Travel
 
 💰央视付费频道,#genre#
 文化精品
