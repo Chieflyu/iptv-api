@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-07 06:14:54,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2026-01-07 07:22:44,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
+CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -11,11 +11,11 @@ CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV-4,http://23.237.228.134/live5/CCTV4.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
-CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV-5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
@@ -40,6 +40,7 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
+五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 🎵音乐频道,#genre#
 
@@ -48,6 +49,14 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -110,3 +119,17 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 🎮游戏频道,#genre#
 
 🏛经典剧场,#genre#
+
+🇺🇸美国频道,#genre#
+CNBC World,https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+C-SPAN,https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+ABC,http://41.205.93.154/ABC/index.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+
+🇨🇦加拿大频道,#genre#
+CTV,https://live.ctvbolivia.com/hls/ctv.m3u8
+TVO,https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
+
+📺欧洲频道,#genre#
+Euronews,https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
