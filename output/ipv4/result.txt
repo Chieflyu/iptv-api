@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2026-01-09 16:17:17,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2026-01-09 16:38:50,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV-4,http://23.237.228.134/live5/CCTV4.m3u8
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1767999600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7d4fbf0261973c34953794aeaef5a4a2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
@@ -17,6 +18,7 @@ CCTV-6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=eb5c753ec36394971626a39b1d0f4864
 CCTV-10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 CCTV-11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 CCTV-12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
@@ -26,6 +28,11 @@ CCTV-14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=0ccccc971767954746
+河南卫视,http://121.12.173.38/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=701583d8984cafed7d6d6a1c0362a450&wsTime=1767958409&wsSession=8cf9da34e72d096afbc1a4b6-176794597681924&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+陕西卫视,http://stream.snrtv.com/sxbc-star-hipqHY.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 🌊香港,#genre#
 
@@ -65,6 +72,10 @@ CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 ☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0xMDExMmIyMWYzOTQ1OWRmMzQ4NmY4Yzg3ZjFhZGEzMiZ1aWQ9JnV1aWQ9OTY0ZThkZjg5MTJkZjI5ODBiZmU3YzEzYWVhZDZlOWEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Nzk2OTkxMg,,/HNDSMPP360.m3u8
+湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1kNDE3NjUxYTY0YjFjNTJiODhkOGJjYzhmMzg4ODBkYiZ1aWQ9JnV1aWQ9NTc5ODE2NDg5NzEwNThkZDM0NjliYmE1NzEyZDJiNGUtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Nzk1OTE3Ng,,/HNJSMPP360.m3u8
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz01MTgyOTcyY2ViZmQ4NjRhNjk3Y2M2ODM1NjAyZjkwMiZ1aWQ9JnV1aWQ9ODNiYTU0Njk5Yzg3YWYyMjhlZGJjZWJiMGY0YjA5NjktNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Nzk1NDk2MA,,/HNDSJMPP360.m3u8
+湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0wMTkwM2MzZTFjNGE3YWYxZjJlNzk2ZWRkMTdkNTEwZCZ1aWQ9JnV1aWQ9NjBkOWIxMGFjZTRlYTRhMzA5Y2ZmNTg4YzliZTQ0MmEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2Nzk2Mzk3Ng,,/HNGGMPP360.m3u8
 
 ☘️湖北频道,#genre#
 
@@ -111,6 +122,7 @@ CCTV-15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 🎥咪咕直播,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9N2FiZWMzNWM0OTBkYjQ4NmVkYzBiMGU4MTQ1YTczMWQmdWlkPSZ1dWlkPTU3NDA4ODU3NTE1N2FiNjIzMmM4NjE4Mzc4NGQ5MzAxLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3Njc5NTk0NTA,/JYKTMPP360.m3u8
 
 🎮游戏频道,#genre#
 
