@@ -21,6 +21,14 @@ CETV-1
 CETV-2
 CETV-3
 CETV-4
+CCTV-4K（超高清）
+CCTV-8K（超高清实验）
+CGTN（英语主频道）
+CGTN Documentary（纪录）
+CGTN Español（西班牙语）
+CGTN Français（法语）
+CGTN Русский（俄语）
+CGTN العربية（阿拉伯语）
 
 📡卫视频道,#genre#
 广东卫视
@@ -57,6 +65,7 @@ CETV-4
 西藏卫视
 新疆卫视
 云南卫视
+大湾区卫视
 
 🌊香港,#genre#
 香港｜新闻/资讯
@@ -66,6 +75,8 @@ CETV-4
 凤凰卫视中文台
 凤凰卫视资讯台
 凤凰卫视香港台
+凤凰卫视美洲台
+凤凰卫视欧洲台
 Now 新闻台
 Now 财经台
 有线新闻台
@@ -86,6 +97,15 @@ TVB Classic
 TVB Classic Movies
 TVB Asian Variety
 TVB Asian Select
+TVB 翡翠台（高清）
+TVB 明珠台（高清）
+TVB J2
+TVB 无线财经·体育·资讯台
+TVBS精采台
+TVBS亚洲
+无线电视互动新闻台
+星空卫视（海外版）
+星空卫视
 
 🌊台湾,#genre#
 东森新闻
@@ -110,6 +130,14 @@ TVBS 环球新闻
 TVBS 欢乐台
 三立综合台
 八大综合台
+纬来育乐台
+纬来日本台
+纬来综合台
+民视台湾台
+民视第一台
+公视3台
+好莱坞电影台
+八大娱乐台
 
 🌊澳门,#genre#
 澳门卫视
@@ -125,6 +153,8 @@ TVBS 欢乐台
 澳门有线电影
 澳门文化频道
 澳门旅游频道
+澳门莲花卫视
+TDM 葡文频道
 
 🎬电影频道,#genre#
 CHC家庭影院
@@ -182,6 +212,10 @@ TVB 亚洲剧台
 淘剧场
 淘娱乐
 淘电影
+星空卫视（Star Chinese Channel）
+星河频道（海外华人电影）
+Celestial Movies（天映频道亚洲）
+FOX Movies Asia
 
 🏀体育频道,#genre#
 CCTV-5
@@ -242,6 +276,11 @@ Red Bull TV
 天元围棋
 快乐垂钓
 JJ斗地主
+爱尔达体育1台
+爱尔达体育2台
+爱尔达体育3台
+Migu体育（咪咕赛事专辑，如果未计入）
+Premier Sports（亚洲版，如果海外源有）
 
 🎵音乐频道,#genre#
 CCTV-15
@@ -257,6 +296,8 @@ TVB 娱乐新闻台
 东森音乐台
 音乐广播
 音乐调频广播
+Channel [V]（亚洲音乐）
+MTV China
 
 👶亲子
 东森幼幼台
@@ -265,12 +306,18 @@ MOMO 亲子台
 公视客语台
 公视二台
 RTHK 教育频道
+嘉佳卡通
+卡酷少儿（高清）
+迪士尼频道（亚洲版）
 
 📝纪录片
 Discovery Asia
 National Geographic Asia
 History Asia
 Love Nature Asia
+CGTN Documentary
+BBC Earth Asia
+Animal Planet Asia
 
 🍃生活旅游
 亚洲美食频道
@@ -278,6 +325,8 @@ Love Nature Asia
 TLC Asia
 TVB Food
 TVB Travel
+旅游卫视
+美食天府
 
 💰央视付费频道,#genre#
 文化精品
