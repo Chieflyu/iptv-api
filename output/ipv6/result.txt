@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-11 06:22:14,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-11 13:45:42,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -205,6 +205,7 @@ CCTV-4K（超高清）,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC
 CCTV-4K（超高清）,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
 CCTV-4K（超高清）,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/index.m3u8
 CCTV-4K（超高清）,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
+CCTV-4K（超高清）,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-8K（超高清实验）,http://[2409:8087:5011:1020::2f]/PLTV/1/224/3221226106/1.m3u8
 CCTV-8K（超高清实验）,http://[2409:8087:5011:1020::2e]/PLTV/1/224/3221226106/1.m3u8
 CCTV-8K（超高清实验）,http://[2409:8087:5011:1020::2d]/PLTV/1/224/3221226106/1.m3u8

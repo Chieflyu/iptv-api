@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Chieflyu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-11 06:22:14
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-11 13:45:42
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -407,6 +407,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K（超高清）" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K（超高清）.png" group-title="📺央视频道",CCTV-4K（超高清）
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4K（超高清）" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K（超高清）.png" group-title="📺央视频道",CCTV-4K（超高清）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV8K（超高清实验）" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K（超高清实验）.png" group-title="📺央视频道",CCTV-8K（超高清实验）
 http://[2409:8087:5011:1020::2f]/PLTV/1/224/3221226106/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8K（超高清实验）" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K（超高清实验）.png" group-title="📺央视频道",CCTV-8K（超高清实验）
