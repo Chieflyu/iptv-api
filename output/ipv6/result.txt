@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-14 06:28:41,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-14 18:27:29,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1004,15 +1004,26 @@ ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS News,https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
+CBS News,https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+WeatherNation,https://jmp2.uk/plu-5d2cb7ac552e3773bc48982e.m3u8
 
 🇨🇦加拿大频道,#genre#
 Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 BNN Bloomberg,https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+The Weather Network,https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 
 📺欧洲频道,#genre#
 BBC World News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Euronews,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8?ads.vf=wcz9wNOQ76u
+Euronews,https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+Euronews,https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+Euronews,https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+Euronews,https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
+Euronews,https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+Euronews,https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8
+Euronews,https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8
 Euronews English,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 France 24,https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
