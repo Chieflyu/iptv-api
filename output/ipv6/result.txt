@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 18:48:50,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-26 19:25:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -556,7 +556,6 @@ CCTV-15,https://t.freetv.fun/live/cctv15-5.m3u8
 卡酷少儿（高清）,http://judy.livednow.dpdns.org/beijing/55skfjq618b9kcq9tfjr5qllb7r.m3u8
 卡酷少儿（高清）,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000090000000215608/main.m3u8
 卡酷少儿（高清）,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
-BBC Earth Asia,https://www.visionplus.id/
 BBC Earth Asia,https://www.visionplus.id/
 
 💰央视付费频道,#genre#
