@@ -1,273 +1,269 @@
 Category: 📺央视频道, Name: CCTV-10, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 浙江卫视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📡卫视频道, Name: 重庆卫视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 河南卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 109 ms, Max Speed: 2.58 M/s, Avg Speed: 2.58 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 江西卫视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📡卫视频道, Name: 云南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2058 ms, Max Speed: 0.48 M/s, Avg Speed: 0.48 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 深圳卫视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺央视频道, Name: CCTV-9, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1202 ms, Max Speed: 0.16 M/s, Avg Speed: 0.16 M/s, Max Resolution: 720x576
-Category: 📺央视频道, Name: CCTV-2, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5027 ms, Max Speed: 3.01 M/s, Avg Speed: 3.01 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-4, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 7474 ms, Max Speed: 0.39 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 浙江卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2456 ms, Max Speed: 1.06 M/s, Avg Speed: 1.06 M/s, Max Resolution: 1280x720
+Category: 📡卫视频道, Name: 河南卫视, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 51 ms, Max Speed: 16.36 M/s, Avg Speed: 8.30 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-2, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 4566 ms, Max Speed: 3.18 M/s, Avg Speed: 3.18 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-4, Total: 5, Valid: 4, Valid Percent: 80.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 2318 ms, Max Speed: 2.26 M/s, Avg Speed: 1.37 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 云南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2185 ms, Max Speed: 0.44 M/s, Avg Speed: 0.44 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 陕西卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1476 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: 720x404
+Category: 📡卫视频道, Name: 山西卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3372 ms, Max Speed: 0.69 M/s, Avg Speed: 0.69 M/s, Max Resolution: 1280x720
+Category: 📺央视频道, Name: CCTV-9, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1135 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: None
 Category: 🌊台湾, Name: 民视新闻台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🌊台湾, Name: 台视新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1243 ms, Max Speed: 2.76 M/s, Avg Speed: 2.76 M/s, Max Resolution: 1920x1080
-Category: 🌊台湾, Name: 东森超视, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 776 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🌊香港, Name: 星空卫视, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 1519 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 大湾区卫视, Total: 6, Valid: 2, Valid Percent: 33.33%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 10594 ms, Max Speed: 0.06 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
+Category: 🌊台湾, Name: 台视新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1043 ms, Max Speed: 2.07 M/s, Avg Speed: 2.07 M/s, Max Resolution: 1920x1080
+Category: 🌊台湾, Name: 东森超视, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 843 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: 🌊香港, Name: 星空卫视, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 535 ms, Max Speed: 0.12 M/s, Avg Speed: 0.12 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 大湾区卫视, Total: 6, Valid: 2, Valid Percent: 33.33%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 10395 ms, Max Speed: 0.22 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
 Category: 🌊台湾, Name: 东森新闻, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🌊台湾, Name: 中天新闻, Total: 5, Valid: 2, Valid Percent: 40.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 10139 ms, Max Speed: 0.09 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
-Category: 🌊澳门, Name: 澳视资讯, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10054 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 🌊台湾, Name: 中天新闻, Total: 5, Valid: 2, Valid Percent: 40.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 10781 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
 Category: 🌊台湾, Name: 东森综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🌊澳门, Name: 澳门卫视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🌊澳门, Name: 澳视体育, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10533 ms, Max Speed: 0.07 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
-Category: 🌊澳门, Name: 澳视澳门, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 10421 ms, Max Speed: 0.09 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
-Category: 🌊澳门, Name: 澳视综艺, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10450 ms, Max Speed: 0.10 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 🌊澳门, Name: 澳视澳门, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 10563 ms, Max Speed: 0.22 M/s, Avg Speed: 0.20 M/s, Max Resolution: 1920x1080
+Category: 🌊澳门, Name: 澳视资讯, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 6442 ms, Max Speed: 0.19 M/s, Avg Speed: 0.16 M/s, Max Resolution: 1920x1080
+Category: 🌊澳门, Name: 澳视体育, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 5539 ms, Max Speed: 0.21 M/s, Avg Speed: 0.21 M/s, Max Resolution: 1920x1080
+Category: 🌊澳门, Name: 澳视综艺, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 8691 ms, Max Speed: 0.19 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 纬来电影, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 经典电影, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: Warner TV, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🎬电影频道, Name: KIX, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2708 ms, Max Speed: 0.58 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 纬来体育, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 767 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: 🎬电影频道, Name: KIX, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2851 ms, Max Speed: 0.60 M/s, Avg Speed: 0.60 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 纬来体育, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 6, IPv6: 0, Min Delay: 842 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: 🎬电影频道, Name: NewTV动作电影, Total: 20, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 20, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 东森电影, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 东森洋片, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🏀体育频道, Name: 福建体育, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 安徽综艺体育, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🏀体育频道, Name: Now Sports 1, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 473 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: Now Sports 4, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 452 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: Now Sports 3, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 499 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: Now Sports 2, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 605 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 1, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 397 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 2, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 492 ms, Max Speed: 16.76 M/s, Avg Speed: 16.76 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 3, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 406 ms, Max Speed: 16.76 M/s, Avg Speed: 16.76 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 4, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 406 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: Fight Sports, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🏀体育频道, Name: Now Sports 5, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 472 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 5, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 604 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: JJ斗地主, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎵音乐频道, Name: TLC Asia, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🏀体育频道, Name: Now Sports 6, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 466 ms, Max Speed: 16.76 M/s, Avg Speed: 16.76 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: Now Sports 7, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 449 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 7, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 210 ms, Max Speed: 20.11 M/s, Avg Speed: 20.11 M/s, Max Resolution: 1920x1080
 Category: ☘️浙江频道, Name: 浙江经济生活, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🎵音乐频道, Name: History Asia, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2331 ms, Max Speed: 0.51 M/s, Avg Speed: 0.51 M/s, Max Resolution: 640x360
-Category: ☘️浙江频道, Name: 浙江教科, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2073 ms, Max Speed: 0.86 M/s, Avg Speed: 0.86 M/s, Max Resolution: 1920x1080
-Category: ☘️浙江频道, Name: 之江纪录, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1940 ms, Max Speed: 0.87 M/s, Avg Speed: 0.87 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: Now Sports 6, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 399 ms, Max Speed: 16.76 M/s, Avg Speed: 16.76 M/s, Max Resolution: 1920x1080
+Category: 🎵音乐频道, Name: History Asia, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2502 ms, Max Speed: 0.48 M/s, Avg Speed: 0.48 M/s, Max Resolution: 640x360
 Category: 🏀体育频道, Name: 广州竞赛, Total: 14, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 14, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️浙江频道, Name: 浙江教科, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2234 ms, Max Speed: 0.83 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
+Category: ☘️浙江频道, Name: 之江纪录, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2125 ms, Max Speed: 0.83 M/s, Avg Speed: 0.79 M/s, Max Resolution: 1920x1080
 Category: ☘️浙江频道, Name: 舟山公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️浙江频道, Name: 浙江民生休闲, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️浙江频道, Name: 浙江数码时代, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🏀体育频道, Name: 辽宁体育, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️浙江频道, Name: 浙江数码时代, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️浙江频道, Name: 浙江民生休闲, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🏀体育频道, Name: 江苏体育, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️浙江频道, Name: 象山综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 510 ms, Max Speed: 2.93 M/s, Avg Speed: 2.93 M/s, Max Resolution: 1920x1080
-Category: ☘️浙江频道, Name: 湖州公共, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 1502 ms, Max Speed: 0.28 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1280x720
-Category: ☘️浙江频道, Name: 浙江教科影视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2980 ms, Max Speed: 0.71 M/s, Avg Speed: 0.71 M/s, Max Resolution: 1920x1080
-Category: ☘️广东频道, Name: 广东民生, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10409 ms, Max Speed: 0.04 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1920x1080
-Category: ☘️浙江频道, Name: 桐庐综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2423 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1280x720
-Category: ☘️浙江频道, Name: 余杭综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2382 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
+Category: ☘️浙江频道, Name: 象山综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 616 ms, Max Speed: 2.12 M/s, Avg Speed: 2.12 M/s, Max Resolution: 1920x1080
+Category: ☘️浙江频道, Name: 湖州公共, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 991 ms, Max Speed: 0.15 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1280x720
+Category: ☘️浙江频道, Name: 浙江教科影视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2547 ms, Max Speed: 0.93 M/s, Avg Speed: 0.93 M/s, Max Resolution: 1920x1080
+Category: ☘️广东频道, Name: 广东民生, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10497 ms, Max Speed: 0.31 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1920x1080
+Category: ☘️浙江频道, Name: 洞头综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2592 ms, Max Speed: 0.66 M/s, Avg Speed: 0.66 M/s, Max Resolution: 720x540
+Category: ☘️浙江频道, Name: 缙云综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2742 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1280x720
+Category: ☘️浙江频道, Name: 桐庐综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2133 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1280x720
+Category: ☘️浙江频道, Name: 萧山生活, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2868 ms, Max Speed: 0.84 M/s, Avg Speed: 0.81 M/s, Max Resolution: 1280x720
 Category: ☘️上海频道, Name: 新闻综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️重庆频道, Name: 铜梁综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3772 ms, Max Speed: 0.11 M/s, Avg Speed: 0.11 M/s, Max Resolution: 720x576
-Category: ☘️浙江频道, Name: 缙云综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10952 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1280x720
-Category: ☘️浙江频道, Name: 上虞新商都, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10891 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
-Category: ☘️浙江频道, Name: 洞头综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10524 ms, Max Speed: 0.07 M/s, Avg Speed: 0.07 M/s, Max Resolution: 720x540
+Category: ☘️浙江频道, Name: 新昌生活, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2091 ms, Max Speed: 0.48 M/s, Avg Speed: 0.46 M/s, Max Resolution: 1920x1080
+Category: ☘️浙江频道, Name: 余杭综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1755 ms, Max Speed: 0.11 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 南京少儿, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️广东频道, Name: 汕头综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️浙江频道, Name: 新昌生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10169 ms, Max Speed: 0.11 M/s, Avg Speed: 0.11 M/s, Max Resolution: 1920x1080
+Category: ☘️重庆频道, Name: 铜梁综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2757 ms, Max Speed: 0.16 M/s, Avg Speed: 0.16 M/s, Max Resolution: 720x576
 Category: ☘️江苏频道, Name: 南京教科, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️重庆频道, Name: 潼南综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5559 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
+Category: ☘️重庆频道, Name: 潼南综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3933 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 宜兴紫砂, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️江苏频道, Name: 宜兴新闻, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 464 ms, Max Speed: 10.31 M/s, Avg Speed: 9.13 M/s, Max Resolution: 1280x720
-Category: ☘️江苏频道, Name: 句容生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1775 ms, Max Speed: 0.34 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1280x720
-Category: ☘️江苏频道, Name: 徐州公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2749 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1280x720
-Category: ☘️浙江频道, Name: 萧山生活, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 4425 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: ☘️江苏频道, Name: 武进生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5131 ms, Max Speed: 0.09 M/s, Avg Speed: 0.09 M/s, Max Resolution: 720x576
-Category: ☘️浙江频道, Name: 嘉兴公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 593 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️江苏频道, Name: 武进新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6921 ms, Max Speed: 0.11 M/s, Avg Speed: 0.11 M/s, Max Resolution: 720x576
-Category: ☘️江苏频道, Name: 睢宁三农, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 342 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️江苏频道, Name: 宜兴新闻, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 540 ms, Max Speed: 6.88 M/s, Avg Speed: 6.83 M/s, Max Resolution: 1280x720
+Category: ☘️浙江频道, Name: 上虞新商都, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 3344 ms, Max Speed: 1.05 M/s, Avg Speed: 0.96 M/s, Max Resolution: 1920x1080
+Category: ☘️江苏频道, Name: 句容生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1582 ms, Max Speed: 0.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1280x720
+Category: ☘️江苏频道, Name: 徐州公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2657 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1280x720
+Category: ☘️广东频道, Name: 汕头综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️江苏频道, Name: 武进生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6531 ms, Max Speed: 0.10 M/s, Avg Speed: 0.10 M/s, Max Resolution: 720x576
+Category: ☘️江苏频道, Name: 武进新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10110 ms, Max Speed: 0.12 M/s, Avg Speed: 0.12 M/s, Max Resolution: 720x576
+Category: ☘️江苏频道, Name: 睢宁三农, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 328 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️浙江频道, Name: 嘉兴公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 723 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️江苏频道, Name: 金坛新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️江苏频道, Name: 睢宁综合, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 256 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️江苏频道, Name: 睢宁综合, Total: 5, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 409 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: ☘️上海频道, Name: 上海纪实, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️辽宁频道, Name: 辽宁北方, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10019 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
 Category: ☘️重庆频道, Name: 垫江综合, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️江苏频道, Name: 张家港民生, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️辽宁频道, Name: 辽宁北方, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10431 ms, Max Speed: 0.43 M/s, Avg Speed: 0.43 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 江苏城市, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️江苏频道, Name: 江苏影视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️湖南频道, Name: 湖南都市, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 833 ms, Max Speed: 0.69 M/s, Avg Speed: 0.69 M/s, Max Resolution: 640x360
 Category: ☘️江苏频道, Name: 江苏教育, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️湖南频道, Name: 湖南爱晚, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 231 ms, Max Speed: 1.68 M/s, Avg Speed: 1.68 M/s, Max Resolution: 640x360
-Category: ☘️湖南频道, Name: 湖南电视剧, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 255 ms, Max Speed: 2.50 M/s, Avg Speed: 2.50 M/s, Max Resolution: 640x360
-Category: ☘️湖南频道, Name: 湖南经视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2098 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 640x360
-Category: ☘️辽宁频道, Name: 辽宁影视剧, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️湖北频道, Name: 武汉教育, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️辽宁频道, Name: 辽宁生活, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️湖北频道, Name: 武汉文体, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️湖北频道, Name: 武汉经济, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️广西频道, Name: 博白综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️湖北频道, Name: 武汉文体, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️湖北频道, Name: 武汉新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️广西频道, Name: 凌云综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2297 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: 1920x1080
-Category: ☘️辽宁频道, Name: 辽宁经济, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10912 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: ☘️广西频道, Name: 昭平综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10006 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️辽宁频道, Name: 辽宁都市, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10911 ms, Max Speed: 0.07 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: ☘️辽宁频道, Name: 辽宁影视剧, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️广西频道, Name: 博白综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️辽宁频道, Name: 辽宁生活, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️广西频道, Name: 凌云综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2281 ms, Max Speed: 0.25 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1920x1080
+Category: ☘️辽宁频道, Name: 辽宁经济, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10859 ms, Max Speed: 0.17 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: ☘️辽宁频道, Name: 辽宁都市, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10893 ms, Max Speed: 0.10 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
+Category: ☘️广西频道, Name: 昭平综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10004 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️天津频道, Name: 滨海新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 乐至综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2988 ms, Max Speed: 0.74 M/s, Avg Speed: 0.74 M/s, Max Resolution: 1920x1080
-Category: ☘️广西频道, Name: 来宾综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10220 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 仁寿综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3061 ms, Max Speed: 0.64 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 井研综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2978 ms, Max Speed: 0.60 M/s, Avg Speed: 0.60 M/s, Max Resolution: 1920x1080
-Category: ☘️湖北频道, Name: 湖北经视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️湖南频道, Name: 湖南公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️广西频道, Name: 来宾综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10700 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 乐至综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3273 ms, Max Speed: 0.67 M/s, Avg Speed: 0.67 M/s, Max Resolution: 1920x1080
+Category: ☘️湖北频道, Name: 湖北经视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️四川频道, Name: 井研综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3221 ms, Max Speed: 0.55 M/s, Avg Speed: 0.55 M/s, Max Resolution: 1920x1080
+Category: ☘️湖北频道, Name: 湖北公共新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️湖北频道, Name: 湖北影视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️四川频道, Name: 小金综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️湖北频道, Name: 湖北公共新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 四川科教, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2810 ms, Max Speed: 0.58 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 宝兴综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2708 ms, Max Speed: 0.79 M/s, Avg Speed: 0.79 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 筠连综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️四川频道, Name: 仁寿综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2801 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 名山综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2901 ms, Max Speed: 0.89 M/s, Avg Speed: 0.89 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 四川科教, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 3053 ms, Max Speed: 0.58 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 宝兴综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2472 ms, Max Speed: 0.58 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
 Category: ☘️四川频道, Name: 沙湾综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 名山综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3046 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 荥经综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2283 ms, Max Speed: 0.68 M/s, Avg Speed: 0.68 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 金口河综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 226 ms, Max Speed: 3.84 M/s, Avg Speed: 3.84 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 雅安公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 广元公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10726 ms, Max Speed: 0.03 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1280x720
+Category: ☘️四川频道, Name: 筠连综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️广西频道, Name: 桂林新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 广元综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10821 ms, Max Speed: 0.05 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1280x720
-Category: ☘️四川频道, Name: 青川综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10242 ms, Max Speed: 0.02 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1920x1080
-Category: ☘️四川频道, Name: 双流综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️四川频道, Name: 荥经综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1557 ms, Max Speed: 0.18 M/s, Avg Speed: 0.18 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 金口河综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 372 ms, Max Speed: 6.25 M/s, Avg Speed: 6.25 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 雅安公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️四川频道, Name: 广元公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10244 ms, Max Speed: 0.02 M/s, Avg Speed: 0.02 M/s, Max Resolution: 1280x720
+Category: ☘️四川频道, Name: 广元综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10288 ms, Max Speed: 0.05 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1280x720
+Category: ☘️四川频道, Name: 青川综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 10011 ms, Max Speed: 0.28 M/s, Avg Speed: 0.22 M/s, Max Resolution: 1920x1080
 Category: ☘️四川频道, Name: 昭化综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️四川频道, Name: 双流综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: ☘️福建频道, Name: 福建经济, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️四川频道, Name: 青神综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️四川频道, Name: 西昌综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️福建频道, Name: 福建公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️四川频道, Name: 西昌综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️陕西频道, Name: 陕西新闻资讯, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️陕西频道, Name: 陕西都市青春, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️河南频道, Name: 焦作综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河南频道, Name: 焦作公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️河南频道, Name: 河南民生, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 80 ms, Max Speed: 1.11 M/s, Avg Speed: 1.11 M/s, Max Resolution: 1920x1080
-Category: ☘️河南频道, Name: 河南都市, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 242 ms, Max Speed: 3.53 M/s, Avg Speed: 3.53 M/s, Max Resolution: 1920x1080
-Category: ☘️河南频道, Name: 梨园, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2275 ms, Max Speed: 0.81 M/s, Avg Speed: 0.81 M/s, Max Resolution: 1920x1080
-Category: ☘️河北频道, Name: 石家庄都市, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️福建频道, Name: 漳浦综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️河南频道, Name: 焦作综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️河南频道, Name: 河南都市, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 44 ms, Max Speed: 15.70 M/s, Avg Speed: 15.70 M/s, Max Resolution: 1920x1080
+Category: ☘️河南频道, Name: 河南民生, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 19 ms, Max Speed: 4.88 M/s, Avg Speed: 4.88 M/s, Max Resolution: 1920x1080
+Category: ☘️河南频道, Name: 梨园, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2311 ms, Max Speed: 0.61 M/s, Avg Speed: 0.61 M/s, Max Resolution: 1920x1080
 Category: ☘️河北频道, Name: 邯郸科教, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️福建频道, Name: 福建新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️河北频道, Name: 石家庄都市, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河北频道, Name: 石家庄生活, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河北频道, Name: 石家庄娱乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️河北频道, Name: 衡山, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3404 ms, Max Speed: 0.59 M/s, Avg Speed: 0.59 M/s, Max Resolution: 1280x720
+Category: ☘️福建频道, Name: 漳浦综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️福建频道, Name: 福建新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️福建频道, Name: 福建旅游, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️海南频道, Name: 海南自贸, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: ☘️海南频道, Name: 海南新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: ☘️海南频道, Name: 海南文旅, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: ☘️河北频道, Name: 衡山, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10122 ms, Max Speed: 0.20 M/s, Avg Speed: 0.20 M/s, Max Resolution: 1280x720
 Category: ☘️海南频道, Name: 海南公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: ☘️甘肃频道, Name: 夏河综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️甘肃频道, Name: 卓尼综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1777 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: 1920x1080
-Category: ☘️甘肃频道, Name: 定西综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河北频道, Name: 邢台城生, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️甘肃频道, Name: 卓尼综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️甘肃频道, Name: 定西综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河北频道, Name: 河北都市, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️河北频道, Name: 河北农民, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️甘肃频道, Name: 岷县综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️甘肃频道, Name: 渭源新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1566 ms, Max Speed: 0.32 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
+Category: ☘️甘肃频道, Name: 白银综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2074 ms, Max Speed: 0.83 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
 Category: ☘️甘肃频道, Name: 成县综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️甘肃频道, Name: 渭源新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️甘肃频道, Name: 玛曲综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️甘肃频道, Name: 白银综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1715 ms, Max Speed: 1.05 M/s, Avg Speed: 0.82 M/s, Max Resolution: 1920x1080
-Category: ☘️甘肃频道, Name: 西峰综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1999 ms, Max Speed: 0.97 M/s, Avg Speed: 0.97 M/s, Max Resolution: 1280x720
-Category: ☘️甘肃频道, Name: 碌曲综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1569 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
+Category: ☘️甘肃频道, Name: 碌曲综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1919 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: 1920x1080
 Category: ☘️甘肃频道, Name: 甘肃公共, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️甘肃频道, Name: 迭部综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1512 ms, Max Speed: 0.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
+Category: ☘️甘肃频道, Name: 西峰综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2728 ms, Max Speed: 1.09 M/s, Avg Speed: 1.09 M/s, Max Resolution: 1280x720
+Category: ☘️甘肃频道, Name: 迭部综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1715 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
 Category: ☘️甘肃频道, Name: 秦安综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️新疆频道, Name: 伊犁汉语综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️甘肃频道, Name: 舟曲新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 奎屯汉语综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1637 ms, Max Speed: 0.07 M/s, Avg Speed: 0.07 M/s, Max Resolution: 0x0
 Category: ☘️新疆频道, Name: 巴音郭楞州, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️甘肃频道, Name: 靖远综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️新疆频道, Name: 伊犁哈萨克, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6562 ms, Max Speed: 1.17 M/s, Avg Speed: 1.17 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 伊犁维吾尔, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6147 ms, Max Speed: 0.91 M/s, Avg Speed: 0.91 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 伊犁哈萨克, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6649 ms, Max Speed: 0.97 M/s, Avg Speed: 0.97 M/s, Max Resolution: 1920x1080
 Category: ☘️山西频道, Name: 五台综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️甘肃频道, Name: 甘南综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️新疆频道, Name: 伊犁维吾尔, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10289 ms, Max Speed: 0.71 M/s, Avg Speed: 0.71 M/s, Max Resolution: 1920x1080
-Category: ☘️新疆频道, Name: 奎屯汉语综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10078 ms, Max Speed: 0.25 M/s, Avg Speed: 0.25 M/s, Max Resolution: 0x0
-Category: ☘️新疆频道, Name: 哈密一套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 161 ms, Max Speed: 4.10 M/s, Avg Speed: 2.13 M/s, Max Resolution: 1920x1080
 Category: ☘️山东频道, Name: 青岛城阳, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️新疆频道, Name: 哈密二套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 160 ms, Max Speed: 3.99 M/s, Avg Speed: 2.06 M/s, Max Resolution: 1920x1080
-Category: ☘️新疆频道, Name: 哈密三套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 161 ms, Max Speed: 4.00 M/s, Avg Speed: 2.09 M/s, Max Resolution: 1920x1080
-Category: ☘️山西频道, Name: 汾西综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 哈密一套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 41 ms, Max Speed: 15.62 M/s, Avg Speed: 7.90 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 哈密二套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 40 ms, Max Speed: 16.78 M/s, Avg Speed: 8.47 M/s, Max Resolution: 1920x1080
+Category: ☘️新疆频道, Name: 哈密三套, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 39 ms, Max Speed: 16.38 M/s, Avg Speed: 8.28 M/s, Max Resolution: 1920x1080
 Category: ☘️山西频道, Name: 怀仁综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️山西频道, Name: 黎城综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2734 ms, Max Speed: 1.00 M/s, Avg Speed: 1.00 M/s, Max Resolution: 1920x1080
+Category: ☘️山西频道, Name: 汾西综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️山西频道, Name: 阳曲综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️山西频道, Name: 黎城综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2747 ms, Max Speed: 0.94 M/s, Avg Speed: 0.94 M/s, Max Resolution: 1920x1080
 Category: ☘️新疆频道, Name: 石河子教育, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️山东频道, Name: 烟台公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️安徽频道, Name: 广德生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3088 ms, Max Speed: 0.67 M/s, Avg Speed: 0.67 M/s, Max Resolution: 1920x1080
 Category: ☘️宁夏频道, Name: 银川生活, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️山西频道, Name: 山西影视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️宁夏频道, Name: 银川公共, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️宁夏频道, Name: 银川文体, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️宁夏频道, Name: 宁夏少儿, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️宁夏频道, Name: 石嘴山综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️山西频道, Name: 山西影视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️山西频道, Name: 山西文体, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️安徽频道, Name: 广德生活, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2443 ms, Max Speed: 0.74 M/s, Avg Speed: 0.74 M/s, Max Resolution: 1920x1080
 Category: ☘️山西频道, Name: 山西法治, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️宁夏频道, Name: 石嘴山综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️宁夏频道, Name: 宁夏少儿, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️山西频道, Name: 山西经济, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️吉林频道, Name: 吉林都市, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️吉林频道, Name: 吉林乡村, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️吉林频道, Name: 吉林生活, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️吉林频道, Name: 九台综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1311 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 德惠综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 893 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: 720x576
-Category: ☘️山西频道, Name: 闻喜综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1293 ms, Max Speed: 1.02 M/s, Avg Speed: 0.87 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 靖宇综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1336 ms, Max Speed: 0.21 M/s, Avg Speed: 0.20 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 磐石综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1464 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 梅河口综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1503 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 东丰综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1525 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 柳河综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1527 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: 720x576
-Category: ☘️吉林频道, Name: 双辽综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2139 ms, Max Speed: 0.30 M/s, Avg Speed: 0.30 M/s, Max Resolution: 720x576
-Category: ☘️云南频道, Name: 易门综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2649 ms, Max Speed: 0.42 M/s, Avg Speed: 0.42 M/s, Max Resolution: 1920x1080
-Category: ☘️云南频道, Name: 西双版纳综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1701 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: 1920x1080
-Category: ☘️云南频道, Name: 芒市综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2206 ms, Max Speed: 0.50 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1920x1080
+Category: ☘️吉林频道, Name: 吉林都市, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️吉林频道, Name: 德惠综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1430 ms, Max Speed: 0.25 M/s, Avg Speed: 0.25 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 九台综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1441 ms, Max Speed: 0.19 M/s, Avg Speed: 0.19 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 靖宇综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2148 ms, Max Speed: 0.46 M/s, Avg Speed: 0.46 M/s, Max Resolution: 720x576
+Category: ☘️山西频道, Name: 闻喜综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 1310 ms, Max Speed: 0.23 M/s, Avg Speed: 0.19 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 梅河口综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2755 ms, Max Speed: 0.42 M/s, Avg Speed: 0.42 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 磐石综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2940 ms, Max Speed: 0.68 M/s, Avg Speed: 0.68 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 东丰综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2407 ms, Max Speed: 0.56 M/s, Avg Speed: 0.56 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 双辽综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2829 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: 720x576
+Category: ☘️吉林频道, Name: 柳河综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2276 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: 720x576
+Category: ☘️云南频道, Name: 易门综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1398 ms, Max Speed: 0.15 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
+Category: ☘️云南频道, Name: 西双版纳综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1519 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1920x1080
 Category: ☘️安徽频道, Name: 安徽国际, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️云南频道, Name: 陇川综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2619 ms, Max Speed: 0.88 M/s, Avg Speed: 0.88 M/s, Max Resolution: 1920x1080
+Category: ☘️云南频道, Name: 陇川综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2387 ms, Max Speed: 0.51 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1920x1080
 Category: ☘️安徽频道, Name: 安徽影视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️云南频道, Name: 芒市综合, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 2776 ms, Max Speed: 0.45 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
 Category: ☘️云南频道, Name: 峨山电视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️云南频道, Name: 瑞丽综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️云南频道, Name: 通海电视台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️云南频道, Name: 麻栗坡电视台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️云南频道, Name: 云南都市, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 1817 ms, Max Speed: 0.25 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1280x720
-Category: ☘️云南频道, Name: 云南娱乐, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 2860 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1280x720
+Category: ☘️云南频道, Name: 云南都市, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 1877 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1280x720
+Category: ☘️云南频道, Name: 云南娱乐, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 1617 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: 1280x720
 Category: ☘️云南频道, Name: 云南公共, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️黑龙江频道, Name: 萝北综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5184 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️云南频道, Name: 云南少儿, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️黑龙江频道, Name: 萝北综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5132 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🪁动画频道, Name: CN卡通, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️黑龙江频道, Name: 甘南县综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5161 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🪁动画频道, Name: 河北少儿科教, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️黑龙江频道, Name: 甘南县综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 5131 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🪁动画频道, Name: 海绵宝宝, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🪁动画频道, Name: 金鹰卡通, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1436 ms, Max Speed: 0.32 M/s, Avg Speed: 0.32 M/s, Max Resolution: 640x360
-Category: 🎮游戏频道, Name: 爱电竞, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🪁动画频道, Name: 漫画解说, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🎮游戏频道, Name: 爱电竞, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: ☘️云南频道, Name: 云南澜湄国际, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🏛经典剧场, Name: 笑傲江湖, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 1171 ms, Max Speed: 1.75 M/s, Avg Speed: 1.75 M/s, Max Resolution: 1920x1072
 Category: ☘️青海频道, Name: 门源综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🏛经典剧场, Name: 笑傲江湖, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 1772 ms, Max Speed: 1.60 M/s, Avg Speed: 1.60 M/s, Max Resolution: 1920x1072
-Category: ☘️青海频道, Name: 化隆综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️青海频道, Name: 民和综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🏛经典剧场, Name: 西游记, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 737 ms, Max Speed: 3.47 M/s, Avg Speed: 3.47 M/s, Max Resolution: 704x534
 Category: 🏛经典剧场, Name: 鹿鼎记, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🏛经典剧场, Name: 西游记, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 307 ms, Max Speed: 4.32 M/s, Avg Speed: 4.32 M/s, Max Resolution: 704x534
-Category: 🇺🇸美国频道, Name: Fox Weather, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 280 ms, Max Speed: 4.99 M/s, Avg Speed: 4.99 M/s, Max Resolution: 1280x720
-Category: ☘️青海频道, Name: 兴海综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️青海频道, Name: 化隆综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🇺🇸美国频道, Name: CNN HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🇺🇸美国频道, Name: Fox Weather, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 180 ms, Max Speed: 7.27 M/s, Avg Speed: 7.27 M/s, Max Resolution: 1280x720
 Category: 🇺🇸美国频道, Name: MSNBC HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🇺🇸美国频道, Name: CNBC World, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 640x480
 Category: 🇺🇸美国频道, Name: CNBC, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🇺🇸美国频道, Name: Bloomberg TV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 293 ms, Max Speed: 2.98 M/s, Avg Speed: 2.98 M/s, Max Resolution: 1920x1080
+Category: 🇺🇸美国频道, Name: CNBC World, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 640x480
+Category: 🇺🇸美国频道, Name: Bloomberg TV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 170 ms, Max Speed: 5.19 M/s, Avg Speed: 5.19 M/s, Max Resolution: 1920x1080
+Category: ☘️青海频道, Name: 民和综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🇺🇸美国频道, Name: C-SPAN, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: 🇺🇸美国频道, Name: Newsmax, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 441 ms, Max Speed: 15.08 M/s, Avg Speed: 15.08 M/s, Max Resolution: 1920x1080
+Category: 🏛经典剧场, Name: 射雕英雄传, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1274x670
 Category: 🇺🇸美国频道, Name: FOX, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🇺🇸美国频道, Name: Newsmax, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 291 ms, Max Speed: 11.73 M/s, Avg Speed: 11.73 M/s, Max Resolution: 1920x1080
 Category: 🇺🇸美国频道, Name: CBS, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🇺🇸美国频道, Name: CBS HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🇺🇸美国频道, Name: NBC, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: ☘️青海频道, Name: 兴海综合, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🇨🇦加拿大频道, Name: CTV News Channel, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: ☘️黑龙江频道, Name: 黑龙江科教, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🇺🇸美国频道, Name: NBC, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🇨🇦加拿大频道, Name: TVO, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🏛经典剧场, Name: 射雕英雄传, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1274x670
+Category: 🇨🇦加拿大频道, Name: CTV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 721 ms, Max Speed: 0.51 M/s, Avg Speed: 0.51 M/s, Max Resolution: 1280x720
 Category: 📺欧洲频道, Name: France 24 English, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺欧洲频道, Name: France 24 French, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: France 24 Arabic, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: NHK World, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🇨🇦加拿大频道, Name: CTV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1307 ms, Max Speed: 0.41 M/s, Avg Speed: 0.41 M/s, Max Resolution: 1280x720
-Category: 📺欧洲频道, Name: BBC Two, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 640x360
+Category: 📺欧洲频道, Name: France 24 French, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: Euronews French, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: Channel 4, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🇺🇸美国频道, Name: MSNBC, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 4771 ms, Max Speed: 0.61 M/s, Avg Speed: 0.61 M/s, Max Resolution: 1920x1080
-Category: 📺欧洲频道, Name: Sky News, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 337 ms, Max Speed: 4.65 M/s, Avg Speed: 4.65 M/s, Max Resolution: 640x360
+Category: 📺欧洲频道, Name: BBC Two, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 640x360
+Category: 📺欧洲频道, Name: Sky News, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 329 ms, Max Speed: 6.40 M/s, Avg Speed: 6.40 M/s, Max Resolution: 640x360
 Category: 📺欧洲频道, Name: TF1, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: France 2, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺欧洲频道, Name: Channel 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 450x360
 Category: 📺欧洲频道, Name: France 5, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🇺🇸美国频道, Name: TBS, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 2086 ms, Max Speed: 0.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 🇺🇸美国频道, Name: ABC, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10845 ms, Max Speed: 0.54 M/s, Avg Speed: 0.54 M/s, Max Resolution: 1280x720
-Category: 🏛经典剧场, Name: 天龙八部, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 165 ms, Max Speed: 44.21 M/s, Avg Speed: 44.21 M/s, Max Resolution: 1920x806
-Category: 🏛经典剧场, Name: 上海滩, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 27 ms, Max Speed: 80.32 M/s, Avg Speed: 80.32 M/s, Max Resolution: 1080x606
+Category: 📺欧洲频道, Name: Channel 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 450x360
+Category: ☘️黑龙江频道, Name: 黑龙江科教, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 🇺🇸美国频道, Name: ABC, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 3833 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: 1280x720
+Category: 🇺🇸美国频道, Name: TBS, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 2104 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
+Category: 🇺🇸美国频道, Name: MSNBC, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 9036 ms, Max Speed: 0.43 M/s, Avg Speed: 0.43 M/s, Max Resolution: 1920x1080
+Category: 🏛经典剧场, Name: 上海滩, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 13 ms, Max Speed: 138.08 M/s, Avg Speed: 138.08 M/s, Max Resolution: 1080x606
+Category: 🏛经典剧场, Name: 天龙八部, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 12 ms, Max Speed: 149.34 M/s, Avg Speed: 149.34 M/s, Max Resolution: 1920x806
 Category: 📺欧洲频道, Name: BBC World News HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺欧洲频道, Name: Rai 2 HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺欧洲频道, Name: LCI HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 📺欧洲频道, Name: Rai 2 HD, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
