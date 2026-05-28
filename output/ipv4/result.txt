@@ -1,20 +1,24 @@
 🕘️更新时间,#genre#
-2026-05-28 07:19:13,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2026-05-28 21:49:33,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1779976800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15634c30d20f99c37325197ae5900c22&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780027200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2885e6546884a23d3863d49b4d38d9cb&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1780027200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3e68885b395b9a9b8ad37f9fbd4683b4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1779976800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8c39f25f6226cee35da5a7a9607bce07&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1779936300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-da279103da3d6095e4ddae31b1d37b19&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f87dbd0e3e2aeb38520b0cd5e990503c
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6bbee47472d1a735fe3a4552c04c6377
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 
 📡卫视频道,#genre#
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1779920305-5d289ff4d4a988f664929f88fe835931-0-0ef8a3dc37b183c069598a8f3834253e
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1779972517-62b9a5019d64dc397973d80b825f97e9-0-be8857040ba3698ddc899a07e066fd91
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-陕西卫视,http://stream.snrtv.com/sxbc-star-jmsuF8.m3u8
+河南卫视,http://113.96.145.58/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ca996d53abcf7e30c30eb1f267845a78&wsTime=1779987225&wsSession=20942dd437b42e868c7ebfd7-177997364213803&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652015820526
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqpR0.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://jnzq.ohoyee.com:9080/live/dwq.m3u8
@@ -50,14 +54,14 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 💰央视付费频道,#genre#
 
 ☘️广东频道,#genre#
-广东民生,http://222.128.55.152:9080/live/gdms.m3u8
 广东民生,http://jnzq.ohoyee.com:9080/live/gdms.m3u8
+广东民生,http://222.128.55.152:9080/live/gdms.m3u8
 
 ☘️浙江频道,#genre#
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江纪录,https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1
 嘉兴公共,http://play-a2.quklive.com/live/1675149601192103.flv
 湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&fbl=
 湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
@@ -72,9 +76,9 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌生活,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 余杭综合,https://29371.hlsplay.aodianyun.com/lms_29371/slow_channel_master_seat_1445826801.m3u8?auth_key=3300411293-0-0-273f15e1d217965ba192be222ea38b2d&extra_key=V8uEmh_EXr1eVHhCsqQdCb2KQpy3kbF4Lfrf1S8rAZfBbea83rMZ6uqfZL74iDr9sfX_YL2E_25HrvU_mbtZh3ifdtd3R0IP_tWpoeTaMP3EUgp-m3whWwmoBhHzmq7QlJkExjuwjfwj_lLUpyUtp6oiMrocqaUoGIgnjsNh9WM
-上虞新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+上虞新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -91,8 +95,10 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 徐州公共,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8
+睢宁三农,http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
 睢宁三农,rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn
 睢宁综合,rtmp://221.229.243.45:1935/live/live1
+睢宁综合,http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
 睢宁综合,rtmp://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh
 
 ☘️辽宁频道,#genre#
@@ -101,9 +107,9 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 
 ☘️湖南频道,#genre#
-湖南经视,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz0yZWNhNmZmZDJjN2NkODNjZGIzZTY4MzgyYjVhZWZjMyZ1aWQ9JnV1aWQ9ODU1MzhmOTg4NDNiZWZjNGQzODQyMzljMDEyNjQxMjAtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3OTkyNjQzNQ,,/HNJSMPP360.m3u8
-湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWJhZDI4MjRkZjE1MzU5MTVmMzhkMGU3MmFkYjY5YzM2JnVpZD0mdXVpZD00N2JmODU2MGFmNDgzMjI5NjU1NTJkYThlMzRiMjUxOS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc5OTM0NzAx/HNDSJMPP360.m3u8
-湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTUyMjAzNGMyNGMzZjA2MDE3MDQxOTczNGFjOGZkZDU2JnVpZD0mdXVpZD02ODk4MDdlNjAzNzc0NDg3ODljZjIxNmM1NTU3YzdmNy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc5OTQ0NDAz/HNGGMPP360.m3u8
+湖南都市,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz1jYTdjYTI3OGNjMTkyNTc4YzEzNDg3MWYxNmYzMTliZiZ1aWQ9JnV1aWQ9NDRjYjdlYjVhYTI1NWQwZDQyMDU4N2JjYTMzNDRkMDQtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3OTk4MzI4MQ,,/HNDSMPP360.m3u8
+湖南经视,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz03M2NlMTA1MGFhMjY5MWU1YTY5YWVhMTBjZjdiMTRhYSZ1aWQ9JnV1aWQ9MGIxNzA1YzA5MGU5YjE1YTIxN2JkODVkN2IzZTYwYTMtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3OTk4NzgzMA,,/HNJSMPP360.m3u8
+湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE0YmM5MDliNjBiOWNiNTVhYWE5ZWZlZTEwYmNiYTE0JnVpZD0mdXVpZD02ZTZmMjRhNjdlZTc2N2I1NTdmOGNmNDBiZTJkMWNlZi02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc5OTkyNzcx/HNDSJMPP360.m3u8
 
 ☘️湖北频道,#genre#
 
@@ -152,8 +158,8 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
+渭源新闻,https://play.kankanlive.com/live/1711955176432990.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
-碌曲综合,https://play.kankanlive.com/live/1711956095637983.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 迭部综合,https://play.kankanlive.com/live/1711955827175988.m3u8
 
@@ -193,8 +199,8 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
-易门综合,http://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+易门综合,http://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 芒市综合,http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 芒市综合,https://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 西双版纳综合,https://hwapi.yntv.net:443/ew265l/47480o_uhd.m3u8
@@ -211,6 +217,7 @@ History Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 🎥咪咕直播,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTkwNmVkMWIzMTMyZTUwN2YzZmMwMjBlMjliZTEyNzUzJnVpZD0mdXVpZD0zZGZhNjYwOTQ0MmFlNzYzYjNmZGVmN2EwYTdiYzEwZS02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc5OTgyMDI3/JYKTMPP360.m3u8
 
 🎮游戏频道,#genre#
 
