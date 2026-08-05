@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 20:00:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-06 06:58:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1001,6 +1001,7 @@ BBC Earth Asia,https://www.visionplus.id/
 🇺🇸美国频道,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNBC,https://www.cnbcindonesia.com
 CNBC,https://www.cnbcindonesia.com
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
