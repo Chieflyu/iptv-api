@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-10 22:07:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-11 07:42:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -272,6 +272,7 @@ CCTV-8K（超高清实验）,http://tvgslb.hn.chinamobile.com:8089/180000001001/
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/index.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047449/index.m3u8
 黑龙江卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182571/index.m3u8
+黑龙江卫视,http://yztv-wshls.homecdn.com/8bb.m3u8?t=1789079364&k=10aafa2f8934f7f73dda4d21084cdb64
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -283,6 +284,7 @@ CCTV-8K（超高清实验）,http://tvgslb.hn.chinamobile.com:8089/180000001001/
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 重庆卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
+重庆卫视,http://yztv-wshls.homecdn.com/8bb.m3u8?t=1789079364&k=10aafa2f8934f7f73dda4d21084cdb64
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
