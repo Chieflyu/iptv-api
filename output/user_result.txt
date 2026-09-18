@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 07:57:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-18 22:07:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -32,16 +32,16 @@ CCTV-3,https://t.freetv.fun/live/cctv3-4.m3u8
 CCTV-3,https://t.freetv.fun/live/cctv3-5.m3u8
 CCTV-3,https://t.freetv.fun/live/cctv3-8.m3u8
 CCTV-3,https://t.freetv.fun/live/cctv3-11.php
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789790400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d3896f7c164a5610f93b4e56c4e7eda3&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1789740000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5d6c8ab3c997da3686d942b41a814581&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789740000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3b1e40e9c09a800f6c9a493c8d3f8a61&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1789707600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e39906e336263eaca81e6c0d13fac201&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1789707600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ba6198d558c5b6423a936d78d025e1ed&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1789790400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a9c9d7a9006cad3faad3aca337482585&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV-4,https://t.freetv.fun/live/cctv4-3.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV-5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
@@ -92,7 +92,7 @@ CCTV-8,https://t.freetv.fun/live/cctv8-2.m3u8
 CCTV-8,https://t.freetv.fun/live/cctv8-4.m3u8
 CCTV-8,https://t.freetv.fun/live/cctv8-7.m3u8
 CCTV-8,https://t.freetv.fun/live/cctv8-34.m3u8
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a6787b87da39de473a5a73446b07b3a1
+CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1a680155ec66633bca2358acdbf00683
 CCTV-9,http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 CCTV-9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
@@ -707,6 +707,9 @@ BBC Earth Asia,https://www.visionplus.id/
 浙江国际,https://stream1.freetv.fun/4bdbea32e24c49d85a82713a3add92e34ef7aca1de814d8dbe107de5974169c8.m3u8
 浙江国际,https://stream1.freetv.fun/a41b139f3c3896c82a2c134395e0c636d4932e0098d0f11cdd75af844b26ea97.m3u8
 嘉兴公共,http://play-a2.quklive.com/live/1675149601192103.flv
+湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&fbl=
+湖州公共,https://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 浙江教科影视,https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
@@ -886,14 +889,11 @@ BBC Earth Asia,https://www.visionplus.id/
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-仁寿综合,https://play.scrstv.com.cn/TV/xwzh.m3u8?auth_key=1724660870-0-0-a245e661caf0188f84e8e486754a80ce
 双流综合,http://171.221.250.132:28080/live/3146B3F489F1246E4E542E341B99EEAD.m3u8
 名山综合,https://m3u8channel-ms.yunxya.com/nmip-media/channellive/channel100249/playlist.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 宝兴综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
-广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
@@ -963,6 +963,8 @@ BBC Earth Asia,https://www.visionplus.id/
 ☘️甘肃频道,#genre#
 甘肃经济,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 甘肃都市,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
+卓尼综合,https://play.kankanlive.com/live/1711955964973985.m3u8
+渭源新闻,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 碌曲综合,https://play.kankanlive.com/live/1711956095637983.m3u8
@@ -1100,10 +1102,8 @@ BBC Earth Asia,https://www.visionplus.id/
 🏛经典剧场,#genre#
 笑傲江湖,https://1080p.huyall.com/play/vbm7BpeY/index.m3u8
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
-天龙八部,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
-上海滩,https://vip1.lz-cdn1.com/20220516/5843_f2d3e2af/1200k/hls/mixed.m3u8
 
 🇺🇸美国频道,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
