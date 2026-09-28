@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-28 08:18:24,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-29 02:03:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1084,6 +1084,8 @@ DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 DW English,https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 DW Deutsch,https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/streamPlaylist.m3u8
+BBC One,https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
+BBC Parliament,https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 Das Erste HD,https://mcdn.daserste.de/daserste/de/master.m3u8
 ZDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
